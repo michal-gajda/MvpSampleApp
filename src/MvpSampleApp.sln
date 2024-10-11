@@ -5,7 +5,7 @@ VisualStudioVersion = 17.10.35230.96
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinUI", "WinUI\WinUI.csproj", "{5D357EC6-283D-43C1-8B17-A6093B3F0EF3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{45E7DE0F-8CB9-489A-8F37-B915FAA5004F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "Domain\Domain.csproj", "{45E7DE0F-8CB9-489A-8F37-B915FAA5004F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1EEB1B8B-C023-42DA-BADB-63631EF50310}"
 	ProjectSection(SolutionItems) = preProject

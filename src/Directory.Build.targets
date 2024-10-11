@@ -1,5 +1,0 @@
-<Project>
-    <PropertyGroup>
-        <DefineConstants>AP;$(DefineConstants)</DefineConstants>
-    </PropertyGroup>
-</Project>

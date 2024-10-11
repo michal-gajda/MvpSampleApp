@@ -6,7 +6,7 @@
     {
         public Form1()
         {
-            InitializeComponent();
+            this.InitializeComponent();
         }
 
         private void btnOK_Click(object sender, System.EventArgs e)
